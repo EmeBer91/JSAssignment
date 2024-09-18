@@ -27,5 +27,19 @@ if (playerTouchGround) {
   console.log("Player has no jetpack.");
   console.log("You cannot jump right now.");
 }
+console.log ("Emma")
+let name = "Emma";
+
+console.log(name);
+
+console.log (name);
+console.log (name);
+
+
+
+let firstName = "Emelie";
+console.log(typeof firstName, firstName);
+
+
 
 
